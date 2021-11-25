@@ -1,1 +1,5 @@
 read customer name, id, order_quantity 
+if order-quantity>=200
+print " discount"
+else
+No discount
